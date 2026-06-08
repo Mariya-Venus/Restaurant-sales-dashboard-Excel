@@ -164,7 +164,7 @@ The following preprocessing steps were performed:
 
 # 📷 Dashboard Preview
 
-![Restaurant Dashboard](dashboard.png)
+![Restaurant Dashboard](dashboard.png.png)
 
 ---
 
